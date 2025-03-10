@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Install and run
+
+Install dependencies execute command-line 
+### flutter pub get 
+
+Run app execute command-line
+
+### flutter -v -d your_android_device run
